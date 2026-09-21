@@ -9,5 +9,9 @@ package javaapplication10;
  * @author gianp
  */
 public class clase {
+    private String Nombre; 
+    private String apellido; 
+    private String genero; 
+    
     
 }
